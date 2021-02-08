@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ba272af1-aec4-4d57-bb21-4b25a1b5581a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/htdocs.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto TFG.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/afegirAlumne.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/afegirAssignatura.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/afegirProva.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alumne.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alumne.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignatura.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignaturas.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/conexion.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap-grid.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap-grid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap-social.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/metisMenu.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/morris.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/startmin.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/timeline.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eliminarAlumne.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eliminarProva.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estadistica.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/bootstrap.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/bootstrap.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/dataTables/dataTables.bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/dataTables/jquery.dataTables.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/flot-data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/flot/excanvas.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/flot/jquery.colorhelpers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/flot/jquery.flot.canvas.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/flot/jquery.flot.categories.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/flot/jquery.flot.crosshair.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/flot/jquery.flot.errorbars.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/flot/jquery.flot.fillbetween.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/flot/jquery.flot.image.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/flot/jquery.flot.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/flot/jquery.flot.navigate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/flot/jquery.flot.pie.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/flot/jquery.flot.resize.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/flot/jquery.flot.selection.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/flot/jquery.flot.stack.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/flot/jquery.flot.symbol.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/flot/jquery.flot.threshold.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/flot/jquery.flot.time.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/flot/jquery.flot.tooltip.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/metisMenu.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/morris-data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/morris.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/raphael.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/startmin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prova.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/validaCsv.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/validar.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/validarAlumne.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/validarAssignatura.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/validarProva.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="printScope" value="4" />
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/../htdocs\exportToHTML" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1k3rkHDdVVu7aO5Er7TWYXcpKol" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs" />
+      <recent name="C:\xampp\htdocs\controller" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ba272af1-aec4-4d57-bb21-4b25a1b5581a" name="Default Changelist" comment="" />
+      <created>1604940259525</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604940259525</updated>
+      <workItem from="1604940262349" duration="10208000" />
+      <workItem from="1605049172713" duration="943000" />
+      <workItem from="1607349127807" duration="2833000" />
+      <workItem from="1610280505102" duration="11832000" />
+      <workItem from="1610904350240" duration="769000" />
+      <workItem from="1610908850171" duration="1263000" />
+      <workItem from="1610910329153" duration="151000" />
+      <workItem from="1610910894791" duration="11899000" />
+      <workItem from="1610973671883" duration="10724000" />
+      <workItem from="1611070769842" duration="9196000" />
+      <workItem from="1611147575614" duration="16284000" />
+      <workItem from="1611258019505" duration="9488000" />
+      <workItem from="1611310084387" duration="1192000" />
+      <workItem from="1611851678676" duration="17542000" />
+      <workItem from="1612046111562" duration="1458000" />
+      <workItem from="1612521144039" duration="663000" />
+      <workItem from="1612639151759" duration="17447000" />
+      <workItem from="1612703359000" duration="771000" />
+      <workItem from="1612800593390" duration="477000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="480" y="153" key="#Web_Browsers" timestamp="1610911025762">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="480" y="153" key="#Web_Browsers/0.0.1366.728@0.0.1366.728" timestamp="1610911025762" />
+    <state x="550" y="26" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604944478186">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="550" y="26" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1604944478186" />
+    <state x="400" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1611150405889">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="400" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1611150405889" />
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1610975051352">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1610975051352" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1610910123387">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1610910123387" />
+    <state x="510" y="87" key="NewPhpClassDialog" timestamp="1610974998149">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="510" y="87" key="NewPhpClassDialog/0.0.1366.728@0.0.1366.728" timestamp="1610974998149" />
+    <state x="832" y="302" key="NewPhpFileDialog" timestamp="1611869954030">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="832" y="302" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1611869954030" />
+    <state x="184" y="9" key="SettingsEditor" timestamp="1612800767327">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1612800767327" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1604941869266">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1604941869266" />
+  </component>
+</project>
