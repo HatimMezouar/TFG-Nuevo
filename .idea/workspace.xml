@@ -1,96 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="ba272af1-aec4-4d57-bb21-4b25a1b5581a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/htdocs.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Proyecto TFG.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/afegirAlumne.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/afegirAssignatura.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/afegirProva.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alumne.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alumne.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assignatura.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assignaturas.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conexion.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap-grid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap-grid.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap-grid.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap-grid.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap-reboot.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap-reboot.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap-reboot.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap-reboot.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap-social.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap-theme.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/font-awesome.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/metisMenu.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/morris.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/startmin.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/timeline.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eliminarAlumne.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eliminarProva.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estadistica.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/FontAwesome.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/bootstrap.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/bootstrap.bundle.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/bootstrap.bundle.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/bootstrap.bundle.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/bootstrap.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/bootstrap.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/dataTables/dataTables.bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/dataTables/jquery.dataTables.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/flot-data.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/flot/excanvas.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/flot/jquery.colorhelpers.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/flot/jquery.flot.canvas.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/flot/jquery.flot.categories.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/flot/jquery.flot.crosshair.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/flot/jquery.flot.errorbars.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/flot/jquery.flot.fillbetween.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/flot/jquery.flot.image.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/flot/jquery.flot.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/flot/jquery.flot.navigate.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/flot/jquery.flot.pie.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/flot/jquery.flot.resize.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/flot/jquery.flot.selection.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/flot/jquery.flot.stack.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/flot/jquery.flot.symbol.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/flot/jquery.flot.threshold.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/flot/jquery.flot.time.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/flot/jquery.flot.tooltip.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/metisMenu.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/morris-data.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/morris.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/raphael.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/startmin.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prova.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/validaCsv.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/validar.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/validarAlumne.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/validarAssignatura.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/validarProva.php" afterDir="false" />
-    </list>
+    <list default="true" id="ba272af1-aec4-4d57-bb21-4b25a1b5581a" name="Default Changelist" comment="Versión Final" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -162,8 +87,16 @@
       <workItem from="1612521144039" duration="663000" />
       <workItem from="1612639151759" duration="17447000" />
       <workItem from="1612703359000" duration="771000" />
-      <workItem from="1612800593390" duration="477000" />
+      <workItem from="1612800593390" duration="1073000" />
     </task>
+    <task id="LOCAL-00001" summary="Versión Final">
+      <created>1612801663964</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1612801663964</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -179,6 +112,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Versión Final" />
+    <option name="LAST_COMMIT_MESSAGE" value="Versión Final" />
   </component>
   <component name="WindowStateProjectService">
     <state x="480" y="153" key="#Web_Browsers" timestamp="1610911025762">
@@ -201,6 +138,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1610910123387" />
+    <state x="507" y="284" key="Github.CreateGistDialog" timestamp="1612801135534">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="507" y="284" key="Github.CreateGistDialog/0.0.1366.728@0.0.1366.728" timestamp="1612801135534" />
     <state x="510" y="87" key="NewPhpClassDialog" timestamp="1610974998149">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -213,6 +154,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1612800767327" />
+    <state x="484" y="270" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1612801175515">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="484" y="270" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1366.728@0.0.1366.728" timestamp="1612801175515" />
     <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1604941869266">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
