@@ -138,7 +138,7 @@ $assignatura = "SELECT NOM FROM assignatura WHERE CODI=$nombre; ";
                                     <form action="validaCsv.php?id=<?php echo $nombre;?>" method="post" enctype="multipart/form-data" id="filesForm">
                                         <div class="col-md-4" ">
                                         <label>Añadir csv</label>
-                                        <input class="form-control" type="file" name="filealumnes">
+                                        <input class="form-control" type="file" name="fileAlumnes">
                                         <button type="button" onclick="uploadAlumnes()" class="btn btn-primary form-control" > Cargar </button>
                                         </div>
                                     </form>
@@ -189,7 +189,7 @@ $assignatura = "SELECT NOM FROM assignatura WHERE CODI=$nombre; ";
             contentType: false,
             success: function(data)
             {
-                alert('Registros Agregados!');
+              location.href= "alumne.php?id=<?php echo $nombre;?>";
             }
         });
     }
